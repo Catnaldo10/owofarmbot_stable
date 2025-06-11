@@ -4,11 +4,11 @@
     "main": {
         "token": "${MAIN_TOKEN}",
         "userid": "837211192060543006",
-        "commandschannelid": "1372961727402217472",
-        "huntbotchannelid": "1372960872565313628",
-        "owodmchannelid": "934784537509113877",
-        "gamblechannelid": "1372960935416954962",
-        "autoquestchannelid": "1372961138932977735",
+        "commandschannelid": "1382227631184941076",
+        "huntbotchannelid": "1382227663141470298",
+        "owodmchannelid": "1382225349789876225",
+        "gamblechannelid": "1382228183457333420",
+        "autoquestchannelid": "1382228236293116004",
         "autostart": true,
         "commands": {
             "hunt": true,
