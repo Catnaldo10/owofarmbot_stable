@@ -9,7 +9,7 @@
         "owodmchannelid": "1382225349789876225",
         "gamblechannelid": "1382228183457333420",
         "autoquestchannelid": "1382228236293116004",
-        "autostart": true,
+        "autostart": false,
         "commands": {
             "hunt": true,
             "battle": true,
